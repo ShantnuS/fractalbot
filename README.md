@@ -1,5 +1,5 @@
 # FractalBot
-Fractal creation tool made for a second year coursework.  
+Fractal creation tool made for a first year coursework.  
   
 <img src="res/mandelbrot.png" width="500" align="middle">     
   
